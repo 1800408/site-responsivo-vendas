@@ -196,3 +196,13 @@ nav{
         opacity: 0.5;
     }
 }
+
+.footer{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+
+}
